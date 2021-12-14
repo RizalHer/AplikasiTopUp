@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AplikasiTopUp</string>
     <string name="judul"> Alief Store</string>
+    <string name="top_up">Top Up</string>
 </resources>
